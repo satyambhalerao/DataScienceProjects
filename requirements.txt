@@ -3,5 +3,10 @@ numpy
 seaborn
 ipykernel
 dill
+matplotlib
+catboost
+xgboost
+flask
+
 
 # -e .
